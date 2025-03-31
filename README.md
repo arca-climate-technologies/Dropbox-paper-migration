@@ -18,7 +18,7 @@ Before using this notebook, you'll need:
 
 1. **Dropbox API Key**
    - Create a Dropbox API app at https://www.dropbox.com/developers
-   - Under the permissions tab, check all read and write access under individual scopes
+   - Under the permissions tab, check all read and write access under individual scopes (**Remember to uncheck all of them once the migration is completed (To ensures data security)**)
    - In the settings tab, generate an access token to use as your API key
 
 2. **Pandoc Installation**
