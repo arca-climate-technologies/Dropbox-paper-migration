@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This notebook provides an automated solution for migrating Dropbox Paper documents to Microsoft Word (.docx) format. It searches your entire Dropbox account for `.paper` files, exports each one as a Markdown file, converts it to a Word document using pandoc, and saves the Word document in a local directory structure that mirrors your Dropbox organization.
+The `personal_paper_migration.ipynb` notebook provides an automated solution for migrating Dropbox Paper documents to Microsoft Word (.docx) format. It searches your entire Dropbox account for `.paper` files, exports each one as a Markdown file, converts it to a Word document using pandoc, and saves the Word document in a local directory structure that mirrors your Dropbox organization.
 
 ## Features
 
